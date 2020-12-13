@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d179e1ed0c9e52847a85dcaf78b715ec, type: 3}
+  m_Name: BushBig
+  m_EditorClassIdentifier: 
+  obsName: 
+  width: 2
+  height: 2
+  tiles:
+  - {fileID: 11400000, guid: de75515d808e1a0449f5905ead08092b, type: 2}
+  - {fileID: 11400000, guid: b8a4cd5d063ac6e4ead1f7f3781274d4, type: 2}
+  - {fileID: 11400000, guid: 7806f72973d28ce4cabf93ebe14d7176, type: 2}
+  - {fileID: 11400000, guid: 9291f02a96ee6644d875744db23fb652, type: 2}
+  isCollidable: 01010101

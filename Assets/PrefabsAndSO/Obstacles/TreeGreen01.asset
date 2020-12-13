@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d179e1ed0c9e52847a85dcaf78b715ec, type: 3}
+  m_Name: TreeGreen01
+  m_EditorClassIdentifier: 
+  obsName: 
+  width: 4
+  height: 4
+  tiles:
+  - {fileID: 11400000, guid: e09f1cd39bd663c4984122e647ff9604, type: 2}
+  - {fileID: 11400000, guid: e0415f4c51a53cd4e8942bca09119706, type: 2}
+  - {fileID: 11400000, guid: 8cc727fabed332940a0652ca7a77a7fa, type: 2}
+  - {fileID: 11400000, guid: 46082da4f180283498e34ddc6006e174, type: 2}
+  - {fileID: 11400000, guid: 49fc8815d1a247f478eb736dafa7c32e, type: 2}
+  - {fileID: 11400000, guid: cf66981b1983c424dae50f439bab1b9c, type: 2}
+  - {fileID: 11400000, guid: b9d29f01af9c3724bae552d392e30419, type: 2}
+  - {fileID: 11400000, guid: 1e6e8e8a78b2dc5498b9e2643c512d29, type: 2}
+  - {fileID: 11400000, guid: 456ea8ba4faff0e4b94cbaf9c7ef16b7, type: 2}
+  - {fileID: 11400000, guid: 980d11c25e516084fb026f1ef2635877, type: 2}
+  - {fileID: 11400000, guid: 6b4d3c49888fd264aafa94737f5cf54f, type: 2}
+  - {fileID: 11400000, guid: 3ab3f880db39bef45a062027daf98534, type: 2}
+  - {fileID: 11400000, guid: 00d613effd1ee784798854bcff3dc343, type: 2}
+  - {fileID: 11400000, guid: d8d698586efa0c7459c2316311fc8757, type: 2}
+  - {fileID: 11400000, guid: 1c6904fe08d609845b3840bc3abd08f1, type: 2}
+  - {fileID: 11400000, guid: 00d613effd1ee784798854bcff3dc343, type: 2}
+  isCollidable: 00000000000000000001010000010100
